@@ -1,22 +1,22 @@
 EINSETZEN
 MUELL
 REGISTRIEREN
-もたせる
-タグをみる
-けってい
-おりる
-もどる
-やめる
+GEBEN
+BERICHT
+BESTAETIGEN
+FLUCHT
+ZURUECK
+SCHLIESSEN
 みせる
 ダミー
-キャンセル
-もちもの
+ABBRECHEN
+BEUTEL
 メール
-あずかる
-あずける
+NEHMEN
+GEBEN
 みる
-なし
-かいじょ
+NICHTS
+AUFHEBEN
 ？？？
 ？？？？？
 ／
@@ -33,14 +33,14 @@ REGISTRIEREN
 ＩＤＮｏ
 　
 カーソル
-まえに　もどります！
-なにを　しますか？
-あげる
+Geh Zurueck！
+Was nun？
+Geben
 \xf000Ȃ\x0001\x0000
 ×
-のみ
+Trinken
 \xf000ȃ\x0001\x0000まい
-とじる
+Schliessen
 \xf000ĉ\x0001\x0000を　どうしますか？
 ここで　メールを\xfffeかくことは　できません！
 ポケモンが　いませんよ！
@@ -136,26 +136,26 @@ REGISTRIEREN
 もっていません
 ダークストーンを　つかったが\xfffeまったく　はんのう　しない……
 ライトストーンを　つかったが\xfffeまったく　はんのう　しない……
-もちものを　せいり　しました！
+Deine Items wurden\xfffesortiert!
 \xf000Ē\x0001\x0000
-しゅるいじゅんに\xfffeもちものを　せいり　しました！
-なまえじゅんに\xfffeもちものを　せいり　しました！
+\xfffemoechte nach Typen sortieren!
+\xfffemoechte nach Namen sortieren!
 おおいじゅんに\xfffeもちものを　せいり　しました！
 すくないじゅんに\xfffeもちものを　せいり　しました！
 ぜんぶ
 フリースペースへ
 もとのポケットへ
-さがしたい　しゅるいを\xfffeえらんで　ください
+Bitte waehle das\xfffenach dem du suchst!
 \xf000Ē\x0001\x0000に　いれる　もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
 \xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　いどう　しました！
 \xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　もどしました！
-どの　ならびに　かえますか？
-しゅるいじゅん
-なまえじゅん
+Welche Sortierung moechtest du nutzen？
+Nach Typ
+Nach Name
 おおいじゅん
 すくないじゅん
-ばんごうじゅん
+Nach Zahlen
 もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
-ばんごうじゅんに\xfffeもちものを　せいり　しました！
-みつかりません
-しまう
+\xfffemoechte nach Zahlen sortieren!
+Nicht gefunden
+Weglegen
